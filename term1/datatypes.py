@@ -39,10 +39,6 @@ print(type(numbers))
 3 < 2 #this will return false
 
 
-num = range(4)
-
-for i in num:
-    print(i)
 
 
 
